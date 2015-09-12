@@ -1,0 +1,39 @@
+---
+layout: post
+title:  "Terminal"
+date:   2015-07-09 18:02:03
+categories: jekyll update
+---
+
+Ce este un Terminal?
+
+Terminalul este un program in care putem să dăm comenzi și să construim:
+
+Ce putem construi?
+
+ * directoare
+ * fisiere
+ * alte programe
+ * joulețe
+ * bloguri
+
+Ce comezi putem să dăm?
+
+ * `cd` - schimbă directorul curent
+ * `vi` - edităm fișiere text
+ * `ls` - vedem ce conține directorul curent
+ * `cat` - afișiază în Terminal coținutul fișierelor
+ * `pwd` - afișiază directorul curent
+ * `mkdir` -crează fișiere
+ * `rmdir` -șterge directoare goale
+ * `man` - manual
+ * `clear` - ștege conținutul Terminalului
+
+Cum arată Terminalul meu? 
+
+![Terminalul meu](/images/terminal.png)
+
+Unde găsim programul Terminal și cum arată fereastra?
+
+![Locația programului Terminal](/images/terminal-location.png)
+

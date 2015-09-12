@@ -1,0 +1,15 @@
+---
+layout: post
+title:  "Salut!"
+date:   2015-07-07 18:02:03
+categories: jekyll update
+---
+
+Salut! Eu sunt Stefan, am construit acest blog pentru a arăta cum învăț iformatică, copiilor ca mine.
+
+Voi explica mai întâi lucrurile mai ușoare:
+
+ * structura de fisiere și directoare 
+ * denumirea fișierelor împreună cu extensiile lor 
+ * ce este un program și ce este un terminal
+ 
