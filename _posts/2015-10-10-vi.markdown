@@ -1,0 +1,39 @@
+---
+layout: post
+title:  "Editorul vi"
+date:   2015-10-10 18:02:03
+categories: jekyll update
+--- 
+ 
+Pentru a edita fișiere text avem nevoie de un editor de fișiere text.Un astfel de etitor este programul `vi`.
+Pornim editorul astfel:
+ `vi numefisier`
+ 
+Odată pornit avem mai multe moduri de lucru.În fiecare mod de lucru putem face mai multe operații.
+Modurile de lucru sunt:
+
+ * modul `ecran` este modul default când pornește programul vi.Folosim pentru vizualizare și execuția de comenzi.
+ * modul `insert` este modul în care inserăm text în fișier.
+ * modul `comandă` este modul în care indroducem comenzi.
+ * modul `vizual` este modul în care facem selecție și copiere de text.
+
+Cele mai folosite comenzi:
+
+ * `i` pentru a intra în modul insert 
+ * `a` pentru a intra in modul insert după poziția cursorului
+ * `h` `l` `k` `j` pentru mutarea cursorului (similar cu folsirea săgeților)
+ * `w` deplasare înainte cu un cuvânt
+ * `b` deplasare înapoi cu un cuvânt
+ * `0` deplasare la începutul rândului
+ * `$` deplasare la sfârșitul rândului
+ * `H` deplasare la începutul primei linii din ecran
+ * `M` deplasare la începutul liniei din mijlocul ecranului
+ * `L` deplasare la începutul ultimei linii din ecran
+
+Salvare, Iesire din fișier:
+
+ * `:wq` va salva fișierul și va ieși din program (write and quit)
+ * `:q!` va ieși forțat din fișier, fără a salva schimbările 
+
+
+

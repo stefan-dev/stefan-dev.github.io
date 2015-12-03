@@ -1,0 +1,65 @@
+---
+layout: post
+title:  "Scratch"
+date:   2015-11-29 18:02:03
+categories: jekyll update
+--- 
+
+Ce este Scratch?:
+
+Scratch este un limbaj de programare vizual și ușor de folosit.
+Cu ajutorul lui putem să facem multe lucruri frumoase și ușoare:
+
+ * jocuri
+ * filmulețe
+ * preoiecte vizuale
+
+Ce trebuie să ști?
+
+Comenzile le vei vedea ca niște piese sub formă de puzzle.
+Pe ecran vei vedea:
+
+ * zona șcenei
+ * lista șcenei
+ * lista de actori
+ * paleta de blocuri
+ * zona scripturilor
+ * rucsac de rezervă
+ 
+ sprite = actor/personaj
+ pozitia actorului pe șcenă apare așa:
+
+ x:0  y:0
+ x arata pozitia lui în linie
+ y arata pozitia lui în coloană
+
+Comenzi fregvent utilizate:
+
+ * move 10 steps
+ * go to x:0 y:0
+ * go to mouse pointer
+ * point towards
+ * glide 1 secs to x:0 y:0
+ * say hello! for 1 secs
+ * show
+ * hide
+ * switch costume to costume2
+ * next costume
+ * clear 
+ * stamp
+ * pen up 
+ * pen down
+ * set pen colour to
+ * when clicked
+ * when space key pressed
+ * touching ?
+ * colour is touching
+ * pick random 1 to 10
+ * 1+1
+ * 1-1
+ * 1*1
+ * 1/1
+ * wait 1 secs
+ * repeat 10
+ * forevar
+ 
