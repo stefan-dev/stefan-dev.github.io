@@ -5,7 +5,7 @@ date:   2015-10-10 18:02:03
 categories: jekyll update
 --- 
  
-Pentru a edita fișiere text avem nevoie de un editor de fișiere text.Un astfel de etitor este programul `vi`.
+Pentru a edita fișiere text avem nevoie de un editor de fișiere text.Un astfel de editor este programul `vi`.
 Pornim editorul astfel:
  `vi numefisier`
  
